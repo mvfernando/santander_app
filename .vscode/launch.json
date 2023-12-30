@@ -16,7 +16,7 @@
             "program": "lib/main.dart",
             "args": [
                 "-d",
-                "Chrome Dev"
+                "chrome"
             ]
         },
         {
